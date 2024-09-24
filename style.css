@@ -1,15 +1,38 @@
 
 .titulo1{
-    background: purple;
-    color: lime;
+    background: black;
+    color: lightblue;
     padding: 10px 0;
     text-align: center;
 }
 .titulo2{
     background: #333;
     color: #fff;
-    height: 20px;
-    width: 300px;
     text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 2px;
+    display: block;
+}
+img {
+    margin: auto;
+    display: block;
+  }
+
+body{
+background: lightslategrey;
 }
 
+.container{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.texto2{
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 2px;
+    display: block;
+}
